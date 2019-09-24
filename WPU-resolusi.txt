@@ -2,3 +2,5 @@ WPU resolusi
 -konsisten untuk membuat nilai naik semester ini 
 -membuat platform web desaing
 -membuat perubahan
+-membuat kode 
+-kolaborsi dengan banyak orang
