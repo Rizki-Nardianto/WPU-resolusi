@@ -1,4 +1,6 @@
 Rencana Konten WPU
 
 - Javascrpit
+  *ES6
+  * Fremework Javascript
 - PHP Framework
